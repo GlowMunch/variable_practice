@@ -7,3 +7,7 @@ test = true
 
 brothers = 3
 
+puts = name
+puts = age
+puts = happy
+
