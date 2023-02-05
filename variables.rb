@@ -7,7 +7,7 @@ test = true
 
 brothers = 3
 
-puts var.name
+puts name
 puts age
 puts happy
 
